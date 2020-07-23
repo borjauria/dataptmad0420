@@ -1,8 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Ironhack Data Analytics Labs
 
-## Getting Started
+## Getting Started Borja Second Atemp!
 
 1. Install **git** following the instructions included [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). If you're using Ubuntu you can just:
 
